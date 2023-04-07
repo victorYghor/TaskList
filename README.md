@@ -1,2 +1,2 @@
 # TaskList
-TaskList using kotlin porject made in hyperskill
+TaskList using kotlin project made in hyperskill
