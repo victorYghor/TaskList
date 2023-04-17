@@ -15,6 +15,7 @@ N -> ![](https://placehold.co/20X20/4fc414/4fc414.png) Normal<br>
 L -> ![](https://placehold.co/20X20/1fb0ff/1fb0ff.png) Low <br>
 
 Put a date with the pattern of date and time (ISO8601): 📆<br>
+https://en.wikipedia.org/wiki/ISO_8601 <br>
 date: YYYY-MM-DD <br>
 time: HH:MM <br>
 If you put in a incorrect formart or a date that does not exist the program will know and ask to replace the date.
