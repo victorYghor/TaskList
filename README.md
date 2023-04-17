@@ -1,10 +1,11 @@
 <h1 align="center"> TaskList </h1>
-Organize your tasks in a single place with TaskList ✔️, task organize with:
-date 📆 e time ⌚
-priority ⚠️
-Save your tasks easily 📝
-priorities and deadlines are easily visible with a color system 🌈.
-## Actions
+Organize your tasks in a single place with TaskList ✔️, task organize with: <br>
+date 📆 e time ⌚<br>
+priority ⚠️<br>
+Save your tasks easily 📝<br>
+priorities and deadlines are easily visible with a color system 🌈.<br>
+<h2 align="center"> Actions </h2>
+
 ### add
 first put a priority: ⚠️<br>
 
