@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: MainKt
+Class-Path: moshi-kotlin-1.11.0.jar kotlin-stdlib-jdk7-1.8.0.jar junit-p
+ latform-commons-1.6.3.jar kotlinx-datetime-jvm-0.3.2.jar kotlin-test-1.
+ 8.0.jar kotlin-stdlib-common-1.8.0.jar kotlin-stdlib-1.8.0.jar junit-ju
+ piter-engine-5.6.3.jar kotlin-test-junit5-1.8.0.jar opentest4j-1.2.0.ja
+ r junit-platform-engine-1.6.3.jar kotlin-stdlib-jdk8-1.8.0.jar kotlin-r
+ eflect-1.4.10.jar moshi-1.11.0.jar okio-1.17.5.jar junit-jupiter-api-5.
+ 6.3.jar apiguardian-api-1.1.0.jar annotations-13.0.jar
+

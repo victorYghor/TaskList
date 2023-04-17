@@ -1,0 +1,1 @@
+C:\Users\victo\IdeaProjects\TaskList2\build\classes\kotlin\main\MainKt$print$1.class;C:\Users\victo\IdeaProjects\TaskList2\build\classes\kotlin\main\MainKt$print$2.class;C:\Users\victo\IdeaProjects\TaskList2\build\classes\kotlin\main\MainKt.class;C:\Users\victo\IdeaProjects\TaskList2\build\classes\kotlin\main\Task.class
