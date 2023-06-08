@@ -1,5 +1,5 @@
 <h1 align="center"> TaskList </h1>
-Organize your tasks in a single place with TaskList ✔️, task organize with: <br>
+Organize your tasks in a single place with TaskList ✔️, task organize with:  <br>
 date 📆 e time ⌚<br>
 priority ⚠️<br>
 Save your tasks easily 📝<br>
